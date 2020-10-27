@@ -1,0 +1,26 @@
+[
+    {
+        "keyword": "pumpkin",
+        "buzzword_1": "Halloween",
+        "buzzword_2": "Jack-o-lantern",
+        "buzzword_3": "pie",
+        "buzzword_4": "orange",
+        "buzzword_5": "carve"
+    },
+    {
+        "keyword": "turkey",
+        "buzzword_1": "Thanksgiving",
+        "buzzword_2": "gobble",
+        "buzzword_3": "bird",
+        "buzzword_4": "dry",
+        "buzzword_5": "baste"
+    },
+    {
+        "keyword": "wreath",
+        "buzzword_1": "Christmas",
+        "buzzword_2": "round",
+        "buzzword_3": "door",
+        "buzzword_4": "evergreen",
+        "buzzword_5": "ring"
+    }
+]
